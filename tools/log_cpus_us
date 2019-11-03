@@ -1,2 +1,7 @@
 #!/bin/bash
-grep "%Cpu(s)" $1 | cut -f2 -d: | cut -f1 -d\. | sort -n | uniq -c
+if [ "$2" = "raw" ]
+then
+  grep "%Cpu(s)" $1 | cut -f2 -d: | cut -f1 -d\.
+else
+  grep "%Cpu(s)" $1 | cut -f2 -d: | cut -f1 -d\. | sort -n | uniq -c
+fi

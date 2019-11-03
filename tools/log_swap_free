@@ -1,2 +1,7 @@
 #!/bin/bash
-grep "Swap:" $1 | cut -f2 -d, | cut -f1 -d\. | sort -n | uniq -c
+if [ "$2" = "raw" ]
+then
+  grep "Swap:" $1 | cut -f2 -d, | cut -f1 -d\.
+else
+  grep "Swap:" $1 | cut -f2 -d, | cut -f1 -d\. | sort -n | uniq -c
+fi

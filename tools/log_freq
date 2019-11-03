@@ -1,2 +1,8 @@
 #!/bin/bash
-grep temp $1| cut -f3 -d= | sort -n | uniq -c
+if [ "$2" = "raw" ]
+then
+  grep temp $1| cut -f3 -d= 
+else
+  grep temp $1| cut -f3 -d= | sort -n | uniq -c
+fi
+
