@@ -1,0 +1,576 @@
+c
+11/02/19 21:55:00.760(59.99)  temp=56.0'C  frequency(48)=600169920
+
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 10.5 us, 10.5 sy,  0.0 ni, 78.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s):  1.3 us,  3.9 sy,  0.0 ni, 94.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,   2627.2 free,    108.4 used,    992.0 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3475.2 avail Mem 
+c
+11/02/19 21:56:00.760(59.99)  temp=70.0'C  frequency(48)=1500345728
+
+%Cpu0  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 82.4 us, 17.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 62.5 us, 31.2 sy,  0.0 ni,  6.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 84.2 us, 15.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,   2466.0 free,    266.0 used,    995.7 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3317.5 avail Mem 
+c
+11/02/19 21:57:00.764(59.99)  temp=73.0'C  frequency(48)=1500398464
+
+%Cpu0  : 88.9 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  5.6 si,  0.0 st
+%Cpu1  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 91.2 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,   2131.9 free,    594.6 used,   1001.1 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   2988.6 avail Mem 
+c
+11/02/19 21:58:00.754(59.99)  temp=75.0'C  frequency(48)=1500345728
+
+%Cpu0  : 88.9 us, 11.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 55.6 us, 44.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 86.8 us, 13.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,   2414.8 free,    309.3 used,   1003.5 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3273.7 avail Mem 
+c
+11/02/19 21:59:00.764(59.99)  temp=75.0'C  frequency(48)=1500398464
+
+%Cpu0  : 88.2 us, 11.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 88.2 us, 11.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 90.8 us,  9.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,   2313.5 free,    407.5 used,   1006.7 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3175.1 avail Mem 
+c
+11/02/19 22:00:00.768(59.99)  temp=76.0'C  frequency(48)=1500398464
+
+%Cpu0  : 83.3 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 44.4 us, 55.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 84.2 us, 14.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  1.3 si,  0.0 st
+
+MiB Mem :   3727.6 total,   2477.8 free,    233.3 used,   1016.6 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3348.7 avail Mem 
+c
+11/02/19 22:01:00.756(59.99)  temp=75.0'C  frequency(48)=1500398464
+
+%Cpu0  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 91.7 us,  8.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,   1513.2 free,    453.1 used,   1761.3 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3122.6 avail Mem 
+c
+11/02/19 22:02:00.770(59.99)  temp=75.0'C  frequency(48)=1500398464
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 85.0 us, 15.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 90.0 us, 10.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 90.0 us, 10.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 92.1 us,  7.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    480.8 free,    524.0 used,   2722.8 buff/cache
+MiB Swap:   1024.0 total,   1024.0 free,      0.0 used.   3051.0 avail Mem 
+c
+11/02/19 22:03:00.769(59.99)  temp=76.0'C  frequency(48)=1500398464
+
+%Cpu0  : 89.5 us, 10.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 94.7 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 57.9 us, 42.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 86.1 us, 13.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    388.1 free,    315.3 used,   3024.2 buff/cache
+MiB Swap:   1024.0 total,   1023.5 free,      0.5 used.   3259.7 avail Mem 
+c
+11/02/19 22:04:00.755(59.99)  temp=77.0'C  frequency(48)=1500345728
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 92.6 us,  7.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    369.6 free,    218.3 used,   3139.7 buff/cache
+MiB Swap:   1024.0 total,   1023.5 free,      0.5 used.   3356.6 avail Mem 
+c
+11/02/19 22:05:00.754(59.99)  temp=79.0'C  frequency(48)=1500345728
+
+%Cpu0  : 82.4 us, 17.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 98.5 us,  1.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    191.2 free,    392.2 used,   3144.1 buff/cache
+MiB Swap:   1024.0 total,   1023.5 free,      0.5 used.   3182.7 avail Mem 
+c
+11/02/19 22:06:00.745(59.99)  temp=79.0'C  frequency(48)=1500398464
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 88.2 us, 11.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 98.6 us,  1.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    101.1 free,    465.9 used,   3160.7 buff/cache
+MiB Swap:   1024.0 total,   1023.5 free,      0.5 used.   3109.1 avail Mem 
+c
+11/02/19 22:07:00.745(59.99)  temp=78.0'C  frequency(48)=1500345728
+
+%Cpu0  : 72.2 us, 27.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 88.9 us, 11.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 96.1 us,  3.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    255.2 free,    306.6 used,   3165.8 buff/cache
+MiB Swap:   1024.0 total,   1023.5 free,      0.5 used.   3268.3 avail Mem 
+c
+11/02/19 22:08:00.735(59.99)  temp=80.0'C  frequency(48)=1500345728
+
+%Cpu0  : 83.3 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 77.8 us, 22.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 94.7 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    280.6 free,    354.2 used,   3092.8 buff/cache
+MiB Swap:   1024.0 total,   1023.5 free,      0.5 used.   3220.9 avail Mem 
+c
+11/02/19 22:09:00.739(59.99)  temp=79.0'C  frequency(48)=1500345728
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 88.9 us, 11.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 83.3 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 88.9 us, 11.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    206.0 free,    410.4 used,   3111.2 buff/cache
+MiB Swap:   1024.0 total,   1023.5 free,      0.5 used.   3164.6 avail Mem 
+c
+11/02/19 22:10:00.738(59.99)  temp=79.0'C  frequency(48)=1500345728
+
+%Cpu0  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 98.6 us,  1.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    278.1 free,    544.3 used,   2905.2 buff/cache
+MiB Swap:   1024.0 total,   1023.0 free,      1.0 used.   3030.6 avail Mem 
+c
+11/02/19 22:11:00.726(59.99)  temp=79.0'C  frequency(48)=1500345728
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 88.9 us, 11.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 83.3 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    554.0 free,    264.6 used,   2909.0 buff/cache
+MiB Swap:   1024.0 total,   1023.0 free,      1.0 used.   3310.3 avail Mem 
+c
+11/02/19 22:12:00.724(59.99)  temp=80.0'C  frequency(48)=1500345728
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 95.8 us,  4.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    287.0 free,    526.9 used,   2913.8 buff/cache
+MiB Swap:   1024.0 total,   1023.0 free,      1.0 used.   3048.1 avail Mem 
+c
+11/02/19 22:13:00.715(59.99)  temp=80.0'C  frequency(48)=1500398464
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 66.7 us, 33.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 87.5 us, 12.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    513.2 free,    324.0 used,   2890.4 buff/cache
+MiB Swap:   1024.0 total,   1023.0 free,      1.0 used.   3250.9 avail Mem 
+c
+11/02/19 22:14:00.715(59.99)  temp=80.0'C  frequency(48)=1500398464
+
+%Cpu0  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 83.3 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 92.1 us,  7.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    380.5 free,    441.6 used,   2905.5 buff/cache
+MiB Swap:   1024.0 total,   1023.0 free,      1.0 used.   3133.3 avail Mem 
+c
+11/02/19 22:15:00.707(59.99)  temp=79.0'C  frequency(48)=1500345728
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 89.5 us, 10.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 89.5 us, 10.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 89.5 us, 10.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    429.4 free,    377.8 used,   2920.4 buff/cache
+MiB Swap:   1024.0 total,   1023.0 free,      1.0 used.   3197.2 avail Mem 
+c
+11/02/19 22:16:00.720(59.99)  temp=78.0'C  frequency(48)=1500345728
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 88.9 us, 11.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 82.4 us, 17.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    391.1 free,    495.7 used,   2840.9 buff/cache
+MiB Swap:   1024.0 total,   1023.0 free,      1.0 used.   3079.2 avail Mem 
+c
+11/02/19 22:17:00.706(59.99)  temp=77.0'C  frequency(48)=1500398464
+
+%Cpu0  : 36.8 us, 57.9 sy,  0.0 ni,  5.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 94.7 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 94.7 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 89.5 us, 10.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    363.4 free,    478.2 used,   2886.0 buff/cache
+MiB Swap:   1024.0 total,   1023.0 free,      1.0 used.   3096.7 avail Mem 
+c
+11/02/19 22:18:00.716(59.99)  temp=76.0'C  frequency(48)=1500345728
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 89.5 us, 10.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 94.7 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 93.8 us,  6.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    250.5 free,    667.1 used,   2810.1 buff/cache
+MiB Swap:   1024.0 total,   1023.0 free,      1.0 used.   2907.8 avail Mem 
+c
+11/02/19 22:19:00.706(59.99)  temp=79.0'C  frequency(48)=1500398464
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 88.9 us, 11.1 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    165.2 free,    734.2 used,   2828.2 buff/cache
+MiB Swap:   1024.0 total,   1023.0 free,      1.0 used.   2840.7 avail Mem 
+c
+11/02/19 22:20:00.705(59.99)  temp=80.0'C  frequency(48)=1500345728
+
+%Cpu0  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 94.7 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    532.7 free,    363.2 used,   2831.7 buff/cache
+MiB Swap:   1024.0 total,   1023.0 free,      1.0 used.   3211.7 avail Mem 
+c
+11/02/19 22:21:00.695(59.99)  temp=80.0'C  frequency(48)=1500345728
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 92.1 us,  7.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    479.6 free,    408.7 used,   2839.4 buff/cache
+MiB Swap:   1024.0 total,   1023.0 free,      1.0 used.   3166.3 avail Mem 
+c
+11/02/19 22:22:00.696(59.99)  temp=80.0'C  frequency(48)=1500398464
+
+%Cpu0  : 83.3 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 61.1 us, 38.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 93.1 us,  6.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    340.9 free,    599.7 used,   2787.0 buff/cache
+MiB Swap:   1024.0 total,   1022.7 free,      1.2 used.   2975.2 avail Mem 
+c
+11/02/19 22:23:00.694(59.99)  temp=80.0'C  frequency(48)=1500345728
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 77.8 us, 22.2 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 95.6 us,  4.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,     76.7 free,    876.7 used,   2774.3 buff/cache
+MiB Swap:   1024.0 total,   1022.7 free,      1.2 used.   2698.3 avail Mem 
+c
+11/02/19 22:24:00.685(59.99)  temp=80.0'C  frequency(48)=1500398464
+
+%Cpu0  : 66.7 us, 33.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 83.3 us, 16.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 86.2 us, 13.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    427.2 free,    496.2 used,   2804.2 buff/cache
+MiB Swap:   1024.0 total,   1022.7 free,      1.2 used.   3078.8 avail Mem 
+c
+11/02/19 22:25:00.686(59.99)  temp=80.0'C  frequency(48)=1500345728
+
+%Cpu0  : 88.2 us, 11.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 97.2 us,  2.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    227.4 free,    678.0 used,   2822.1 buff/cache
+MiB Swap:   1024.0 total,   1022.7 free,      1.2 used.   2897.0 avail Mem 
+c
+11/02/19 22:26:00.675(59.99)  temp=80.0'C  frequency(48)=1500345728
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 92.6 us,  7.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    291.9 free,    388.8 used,   3046.8 buff/cache
+MiB Swap:   1024.0 total,   1022.7 free,      1.2 used.   3186.2 avail Mem 
+c
+11/02/19 22:27:00.673(59.99)  temp=80.0'C  frequency(48)=1500345728
+
+%Cpu0  : 56.2 us, 43.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 82.4 us, 17.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 92.1 us,  7.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    308.2 free,    298.3 used,   3121.1 buff/cache
+MiB Swap:   1024.0 total,   1022.7 free,      1.2 used.   3276.7 avail Mem 
+c
+11/02/19 22:28:00.665(59.99)  temp=81.0'C  frequency(48)=1500345728
+
+%Cpu0  : 41.2 us, 58.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 85.3 us, 14.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,     73.5 free,    376.3 used,   3277.9 buff/cache
+MiB Swap:   1024.0 total,   1022.7 free,      1.2 used.   3198.7 avail Mem 
+c
+11/02/19 22:29:00.668(59.99)  temp=80.0'C  frequency(48)=1500345728
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 94.7 us,  5.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 52.6 us, 47.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 90.3 us,  9.7 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    205.2 free,    295.6 used,   3226.8 buff/cache
+MiB Swap:   1024.0 total,   1022.2 free,      1.8 used.   3279.5 avail Mem 
+c
+11/02/19 22:30:00.665(59.99)  temp=79.0'C  frequency(48)=1500345728
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 93.1 us,  6.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    205.0 free,    448.8 used,   3073.8 buff/cache
+MiB Swap:   1024.0 total,   1022.0 free,      2.0 used.   3126.5 avail Mem 
+c
+11/02/19 22:31:00.668(59.99)  temp=78.0'C  frequency(48)=1500398464
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 66.7 us, 33.3 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 92.6 us,  7.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    176.8 free,    266.6 used,   3284.2 buff/cache
+MiB Swap:   1024.0 total,   1022.0 free,      2.0 used.   3308.6 avail Mem 
+c
+11/02/19 22:32:00.667(59.99)  temp=79.0'C  frequency(48)=1500345728
+
+%Cpu0  : 88.2 us, 11.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 88.2 us, 11.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 95.0 us,  5.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    112.1 free,    447.5 used,   3168.0 buff/cache
+MiB Swap:   1024.0 total,   1021.5 free,      2.5 used.   3128.1 avail Mem 
+c
+11/02/19 22:33:00.664(59.99)  temp=81.0'C  frequency(48)=1500398464
+
+%Cpu0  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 94.4 us,  5.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 97.2 us,  2.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    123.6 free,    431.8 used,   3172.2 buff/cache
+MiB Swap:   1024.0 total,   1021.5 free,      2.5 used.   3143.8 avail Mem 
+c
+11/02/19 22:34:00.668(59.99)  temp=80.0'C  frequency(48)=1500398464
+
+%Cpu0  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  : 88.2 us, 11.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 76.5 us, 23.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 91.2 us,  8.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    241.2 free,    268.8 used,   3217.6 buff/cache
+MiB Swap:   1024.0 total,   1021.2 free,      2.8 used.   3306.8 avail Mem 
+c
+11/02/19 22:35:00.652(59.99)  temp=76.0'C  frequency(48)=1500345728
+
+%Cpu0  :  0.0 us,  5.6 sy,  0.0 ni, 88.9 id,  5.6 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  : 88.2 us, 11.8 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us, 11.8 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 48.4 us,  3.1 sy,  0.0 ni, 48.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,     75.6 free,   1383.3 used,   2268.8 buff/cache
+MiB Swap:   1024.0 total,   1019.5 free,      4.5 used.   2197.2 avail Mem 
+c
+11/02/19 22:36:00.648(59.99)  temp=73.0'C  frequency(48)=1500345728
+
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us, 11.8 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 48.5 us,  4.4 sy,  0.0 ni, 47.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,     72.1 free,   1636.8 used,   2018.7 buff/cache
+MiB Swap:   1024.0 total,   1019.0 free,      5.0 used.   1946.0 avail Mem 
+c
+11/02/19 22:37:00.649(59.99)  temp=74.0'C  frequency(48)=1500398464
+
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  5.9 us,  5.9 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 50.0 us,  2.9 sy,  0.0 ni, 47.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    177.3 free,   1913.0 used,   1637.2 buff/cache
+MiB Swap:   1024.0 total,   1019.0 free,      5.0 used.   1675.7 avail Mem 
+c
+11/02/19 22:38:00.643(59.99)  temp=73.0'C  frequency(48)=1500345728
+
+%Cpu0  :  0.0 us,  6.2 sy,  0.0 ni, 93.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 50.7 us,  3.0 sy,  0.0 ni, 46.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    490.8 free,   2171.0 used,   1065.8 buff/cache
+MiB Swap:   1024.0 total,   1018.5 free,      5.5 used.   1419.6 avail Mem 
+c
+11/02/19 22:39:00.639(59.99)  temp=72.0'C  frequency(48)=1500345728
+
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us, 11.8 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 51.5 us,  1.5 sy,  0.0 ni, 47.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    478.1 free,   2173.9 used,   1075.6 buff/cache
+MiB Swap:   1024.0 total,   1018.5 free,      5.5 used.   1416.7 avail Mem 
+c
+11/02/19 22:40:00.637(59.99)  temp=73.0'C  frequency(48)=1500398464
+
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  5.9 us,  5.9 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 50.0 us,  2.9 sy,  0.0 ni, 47.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    465.7 free,   2176.4 used,   1085.5 buff/cache
+MiB Swap:   1024.0 total,   1018.5 free,      5.5 used.   1414.2 avail Mem 
+c
+11/02/19 22:41:00.632(59.99)  temp=71.0'C  frequency(48)=1500345728
+
+%Cpu0  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  6.2 us,  6.2 sy,  0.0 ni, 87.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  : 94.1 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s): 52.9 us,  0.0 sy,  0.0 ni, 47.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,    726.7 free,   1906.3 used,   1094.6 buff/cache
+MiB Swap:   1024.0 total,   1018.5 free,      5.5 used.   1684.2 avail Mem 
+c
+11/02/19 22:42:00.631(59.99)  temp=62.0'C  frequency(48)=600169920
+
+%Cpu0  :  0.0 us, 11.8 sy,  0.0 ni, 88.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu1  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu2  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+%Cpu3  :  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+%Cpu(s):  0.0 us,  1.5 sy,  0.0 ni, 98.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+
+MiB Mem :   3727.6 total,   2539.6 free,    107.4 used,   1080.6 buff/cache
+MiB Swap:   1024.0 total,   1018.5 free,      5.5 used.   3483.3 avail Mem 
