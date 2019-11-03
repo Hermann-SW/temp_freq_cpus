@@ -1,0 +1,21 @@
+#!/bin/bash
+if [ "$1" = "" ]
+then
+  while IFS= read -r line
+  do
+    printf -v i %.0f "$line"
+    if [ $i -gt 0 ]; then printf "%0.s▒" $(seq 1 $i); fi
+    echo
+  done
+else
+  echo -n "▗"; printf "%0.s▄" $(seq 1 $1); echo "▖"
+  while IFS= read -r line
+  do
+    printf -v i %.0f "$line"
+    echo -n "▐"
+    if [ $i -gt  0 ]; then printf "%0.s▒" $(seq 1 $i); fi
+    if [ $i -lt $1 ]; then printf "%0.s░" $(seq 1 $(($1 - $i))); fi
+    if [ $i -le $1 ]; then echo "▌"; else echo; fi
+  done
+  echo -n "▝"; printf "%0.s▀" $(seq 1 $1); echo "▘"
+fi
